@@ -56,7 +56,7 @@
   "SC_R_008": {
     "decision": "MISS",
     "cache_id": null,
-    "nearest_similarity": 0.285,
+    "nearest_similarity": -0.0168,
     "added_terms": [
       "bank",
       "reversal"
@@ -117,7 +117,7 @@
   "SC_R_016": {
     "decision": "MISS",
     "cache_id": null,
-    "nearest_similarity": 0.2103,
+    "nearest_similarity": 0.1957,
     "added_terms": []
   },
   "SC_R_017": {
@@ -211,7 +211,7 @@
   "SC_R_028": {
     "decision": "MISS",
     "cache_id": null,
-    "nearest_similarity": 0.32,
+    "nearest_similarity": 0.3112,
     "added_terms": [
       "bank",
       "reversal"
@@ -274,7 +274,7 @@
   "SC_R_036": {
     "decision": "MISS",
     "cache_id": null,
-    "nearest_similarity": 0.182,
+    "nearest_similarity": 0.1314,
     "added_terms": []
   },
   "SC_R_037": {
@@ -303,7 +303,7 @@
   "SC_R_040": {
     "decision": "MISS",
     "cache_id": null,
-    "nearest_similarity": 0.2783,
+    "nearest_similarity": 0.1859,
     "added_terms": []
   },
   "SC_R_041": {
@@ -424,7 +424,7 @@
   "SC_R_056": {
     "decision": "MISS",
     "cache_id": null,
-    "nearest_similarity": 0.3651,
+    "nearest_similarity": 0.3461,
     "added_terms": [
       "bank",
       "reversal"
@@ -490,7 +490,7 @@
   "SC_R_064": {
     "decision": "MISS",
     "cache_id": null,
-    "nearest_similarity": 0.1382,
+    "nearest_similarity": 0.1262,
     "added_terms": []
   },
   "SC_R_065": {
@@ -518,7 +518,7 @@
   "SC_R_068": {
     "decision": "MISS",
     "cache_id": null,
-    "nearest_similarity": 0.1397,
+    "nearest_similarity": 0.0645,
     "added_terms": [
       "bank",
       "reversal"

@@ -46,7 +46,7 @@ for r in requests:
         if e["language"] != r["language"]:
             continue
         age = r["at_minute"] - e["created_minute"]
-        if age > ttl:
+        if age < 0 or age > ttl:
             continue
         candidates.append(e)
 
