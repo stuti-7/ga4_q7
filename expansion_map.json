@@ -1,0 +1,42 @@
+{
+  "fee": [
+    "payment",
+    "receipt"
+  ],
+  "refund": [
+    "reversal",
+    "bank"
+  ],
+  "exam": [
+    "assessment",
+    "slot"
+  ],
+  "hallticket": [
+    "admitcard",
+    "exam"
+  ],
+  "course": [
+    "subject",
+    "term"
+  ],
+  "project": [
+    "submission",
+    "rubric"
+  ],
+  "login": [
+    "signin",
+    "otp"
+  ],
+  "certificate": [
+    "transcript",
+    "dispatch"
+  ],
+  "scholarship": [
+    "waiver",
+    "income"
+  ],
+  "proctoring": [
+    "camera",
+    "browser"
+  ]
+}

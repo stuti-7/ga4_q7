@@ -1,0 +1,576 @@
+{
+  "SC_R_001": {
+    "decision": "HIT",
+    "cache_id": "SC_C_0011",
+    "nearest_similarity": 0.9963,
+    "added_terms": []
+  },
+  "SC_R_002": {
+    "decision": "HIT",
+    "cache_id": "SC_C_0052",
+    "nearest_similarity": 0.9959,
+    "added_terms": [
+      "rubric",
+      "submission"
+    ]
+  },
+  "SC_R_003": {
+    "decision": "HIT",
+    "cache_id": "SC_C_0097",
+    "nearest_similarity": 0.9962,
+    "added_terms": [
+      "bank",
+      "payment",
+      "receipt",
+      "reversal"
+    ]
+  },
+  "SC_R_004": {
+    "decision": "MISS",
+    "cache_id": null,
+    "nearest_similarity": 0.1193,
+    "added_terms": []
+  },
+  "SC_R_005": {
+    "decision": "HIT",
+    "cache_id": "SC_C_0150",
+    "nearest_similarity": 0.996,
+    "added_terms": []
+  },
+  "SC_R_006": {
+    "decision": "HIT",
+    "cache_id": "SC_C_0206",
+    "nearest_similarity": 0.9966,
+    "added_terms": [
+      "dispatch",
+      "transcript"
+    ]
+  },
+  "SC_R_007": {
+    "decision": "HIT",
+    "cache_id": "SC_C_0238",
+    "nearest_similarity": 0.9972,
+    "added_terms": [
+      "dispatch",
+      "transcript"
+    ]
+  },
+  "SC_R_008": {
+    "decision": "MISS",
+    "cache_id": null,
+    "nearest_similarity": -0.0168,
+    "added_terms": [
+      "bank",
+      "reversal"
+    ]
+  },
+  "SC_R_009": {
+    "decision": "HIT",
+    "cache_id": "SC_C_0315",
+    "nearest_similarity": 0.9968,
+    "added_terms": []
+  },
+  "SC_R_010": {
+    "decision": "HIT",
+    "cache_id": "SC_C_0343",
+    "nearest_similarity": 0.9967,
+    "added_terms": [
+      "income",
+      "waiver"
+    ]
+  },
+  "SC_R_011": {
+    "decision": "HIT",
+    "cache_id": "SC_C_0384",
+    "nearest_similarity": 0.9976,
+    "added_terms": [
+      "browser",
+      "camera"
+    ]
+  },
+  "SC_R_012": {
+    "decision": "MISS",
+    "cache_id": null,
+    "nearest_similarity": 0.2347,
+    "added_terms": []
+  },
+  "SC_R_013": {
+    "decision": "HIT",
+    "cache_id": "SC_C_0467",
+    "nearest_similarity": 0.9967,
+    "added_terms": []
+  },
+  "SC_R_014": {
+    "decision": "HIT",
+    "cache_id": "SC_C_0497",
+    "nearest_similarity": 0.9956,
+    "added_terms": [
+      "payment",
+      "receipt"
+    ]
+  },
+  "SC_R_015": {
+    "decision": "HIT",
+    "cache_id": "SC_C_0539",
+    "nearest_similarity": 0.9958,
+    "added_terms": [
+      "subject",
+      "term"
+    ]
+  },
+  "SC_R_016": {
+    "decision": "MISS",
+    "cache_id": null,
+    "nearest_similarity": 0.1957,
+    "added_terms": []
+  },
+  "SC_R_017": {
+    "decision": "HIT",
+    "cache_id": "SC_C_0599",
+    "nearest_similarity": 0.996,
+    "added_terms": []
+  },
+  "SC_R_018": {
+    "decision": "HIT",
+    "cache_id": "SC_C_0638",
+    "nearest_similarity": 0.9966,
+    "added_terms": [
+      "dispatch",
+      "transcript"
+    ]
+  },
+  "SC_R_019": {
+    "decision": "HIT",
+    "cache_id": "SC_C_0682",
+    "nearest_similarity": 0.996,
+    "added_terms": [
+      "admitcard",
+      "assessment",
+      "exam",
+      "slot"
+    ]
+  },
+  "SC_R_020": {
+    "decision": "MISS",
+    "cache_id": null,
+    "nearest_similarity": 0.3112,
+    "added_terms": [
+      "admitcard",
+      "exam"
+    ]
+  },
+  "SC_R_021": {
+    "decision": "HIT",
+    "cache_id": "SC_C_0753",
+    "nearest_similarity": 0.9966,
+    "added_terms": []
+  },
+  "SC_R_022": {
+    "decision": "HIT",
+    "cache_id": "SC_C_0779",
+    "nearest_similarity": 0.9968,
+    "added_terms": [
+      "subject",
+      "term"
+    ]
+  },
+  "SC_R_023": {
+    "decision": "HIT",
+    "cache_id": "SC_C_0825",
+    "nearest_similarity": 0.9962,
+    "added_terms": [
+      "bank",
+      "payment",
+      "receipt",
+      "reversal"
+    ]
+  },
+  "SC_R_024": {
+    "decision": "MISS",
+    "cache_id": null,
+    "nearest_similarity": 0.0,
+    "added_terms": []
+  },
+  "SC_R_025": {
+    "decision": "HIT",
+    "cache_id": "SC_C_0892",
+    "nearest_similarity": 0.9961,
+    "added_terms": []
+  },
+  "SC_R_026": {
+    "decision": "HIT",
+    "cache_id": "SC_C_0939",
+    "nearest_similarity": 0.9959,
+    "added_terms": [
+      "subject",
+      "term"
+    ]
+  },
+  "SC_R_027": {
+    "decision": "HIT",
+    "cache_id": "SC_C_0022",
+    "nearest_similarity": 0.9964,
+    "added_terms": [
+      "dispatch",
+      "transcript"
+    ]
+  },
+  "SC_R_028": {
+    "decision": "MISS",
+    "cache_id": null,
+    "nearest_similarity": 0.3112,
+    "added_terms": [
+      "bank",
+      "reversal"
+    ]
+  },
+  "SC_R_029": {
+    "decision": "HIT",
+    "cache_id": "SC_C_0092",
+    "nearest_similarity": 0.9962,
+    "added_terms": []
+  },
+  "SC_R_030": {
+    "decision": "HIT",
+    "cache_id": "SC_C_0120",
+    "nearest_similarity": 0.9967,
+    "added_terms": [
+      "browser",
+      "camera"
+    ]
+  },
+  "SC_R_031": {
+    "decision": "HIT",
+    "cache_id": "SC_C_0151",
+    "nearest_similarity": 0.9969,
+    "added_terms": [
+      "income",
+      "waiver"
+    ]
+  },
+  "SC_R_032": {
+    "decision": "MISS",
+    "cache_id": null,
+    "nearest_similarity": 0.3347,
+    "added_terms": [
+      "admitcard",
+      "exam"
+    ]
+  },
+  "SC_R_033": {
+    "decision": "HIT",
+    "cache_id": "SC_C_0242",
+    "nearest_similarity": 0.9955,
+    "added_terms": []
+  },
+  "SC_R_034": {
+    "decision": "HIT",
+    "cache_id": "SC_C_0265",
+    "nearest_similarity": 0.995,
+    "added_terms": [
+      "payment",
+      "receipt"
+    ]
+  },
+  "SC_R_035": {
+    "decision": "HIT",
+    "cache_id": "SC_C_0303",
+    "nearest_similarity": 0.9963,
+    "added_terms": [
+      "income",
+      "waiver"
+    ]
+  },
+  "SC_R_036": {
+    "decision": "MISS",
+    "cache_id": null,
+    "nearest_similarity": 0.1314,
+    "added_terms": []
+  },
+  "SC_R_037": {
+    "decision": "HIT",
+    "cache_id": "SC_C_0379",
+    "nearest_similarity": 0.997,
+    "added_terms": []
+  },
+  "SC_R_038": {
+    "decision": "HIT",
+    "cache_id": "SC_C_0431",
+    "nearest_similarity": 0.9968,
+    "added_terms": [
+      "income",
+      "waiver"
+    ]
+  },
+  "SC_R_039": {
+    "decision": "HIT",
+    "cache_id": "SC_C_0453",
+    "nearest_similarity": 0.9954,
+    "added_terms": [
+      "otp",
+      "signin"
+    ]
+  },
+  "SC_R_040": {
+    "decision": "MISS",
+    "cache_id": null,
+    "nearest_similarity": 0.1859,
+    "added_terms": []
+  },
+  "SC_R_041": {
+    "decision": "HIT",
+    "cache_id": "SC_C_0537",
+    "nearest_similarity": 0.9963,
+    "added_terms": []
+  },
+  "SC_R_042": {
+    "decision": "HIT",
+    "cache_id": "SC_C_0579",
+    "nearest_similarity": 0.9972,
+    "added_terms": [
+      "subject",
+      "term"
+    ]
+  },
+  "SC_R_043": {
+    "decision": "HIT",
+    "cache_id": "SC_C_0596",
+    "nearest_similarity": 0.9955,
+    "added_terms": [
+      "rubric",
+      "submission"
+    ]
+  },
+  "SC_R_044": {
+    "decision": "MISS",
+    "cache_id": null,
+    "nearest_similarity": 0.3734,
+    "added_terms": []
+  },
+  "SC_R_045": {
+    "decision": "HIT",
+    "cache_id": "SC_C_0679",
+    "nearest_similarity": 0.997,
+    "added_terms": []
+  },
+  "SC_R_046": {
+    "decision": "HIT",
+    "cache_id": "SC_C_0708",
+    "nearest_similarity": 0.9964,
+    "added_terms": [
+      "rubric",
+      "submission"
+    ]
+  },
+  "SC_R_047": {
+    "decision": "HIT",
+    "cache_id": "SC_C_0751",
+    "nearest_similarity": 0.9969,
+    "added_terms": [
+      "income",
+      "waiver"
+    ]
+  },
+  "SC_R_048": {
+    "decision": "MISS",
+    "cache_id": null,
+    "nearest_similarity": 0.0,
+    "added_terms": []
+  },
+  "SC_R_049": {
+    "decision": "HIT",
+    "cache_id": "SC_C_0833",
+    "nearest_similarity": 0.9959,
+    "added_terms": []
+  },
+  "SC_R_050": {
+    "decision": "HIT",
+    "cache_id": "SC_C_0854",
+    "nearest_similarity": 0.9965,
+    "added_terms": [
+      "dispatch",
+      "transcript"
+    ]
+  },
+  "SC_R_051": {
+    "decision": "HIT",
+    "cache_id": "SC_C_0910",
+    "nearest_similarity": 0.9963,
+    "added_terms": [
+      "dispatch",
+      "transcript"
+    ]
+  },
+  "SC_R_052": {
+    "decision": "MISS",
+    "cache_id": null,
+    "nearest_similarity": 0.0,
+    "added_terms": [
+      "admitcard",
+      "exam"
+    ]
+  },
+  "SC_R_053": {
+    "decision": "HIT",
+    "cache_id": "SC_C_0008",
+    "nearest_similarity": 0.997,
+    "added_terms": []
+  },
+  "SC_R_054": {
+    "decision": "HIT",
+    "cache_id": "SC_C_0050",
+    "nearest_similarity": 0.9973,
+    "added_terms": [
+      "assessment",
+      "slot"
+    ]
+  },
+  "SC_R_055": {
+    "decision": "HIT",
+    "cache_id": "SC_C_0098",
+    "nearest_similarity": 0.997,
+    "added_terms": [
+      "admitcard",
+      "assessment",
+      "exam",
+      "slot"
+    ]
+  },
+  "SC_R_056": {
+    "decision": "MISS",
+    "cache_id": null,
+    "nearest_similarity": 0.3461,
+    "added_terms": [
+      "bank",
+      "reversal"
+    ]
+  },
+  "SC_R_057": {
+    "decision": "HIT",
+    "cache_id": "SC_C_0170",
+    "nearest_similarity": 0.9959,
+    "added_terms": []
+  },
+  "SC_R_058": {
+    "decision": "HIT",
+    "cache_id": "SC_C_0210",
+    "nearest_similarity": 0.9962,
+    "added_terms": [
+      "assessment",
+      "slot"
+    ]
+  },
+  "SC_R_059": {
+    "decision": "HIT",
+    "cache_id": "SC_C_0242",
+    "nearest_similarity": 0.9961,
+    "added_terms": [
+      "admitcard",
+      "assessment",
+      "exam",
+      "slot"
+    ]
+  },
+  "SC_R_060": {
+    "decision": "MISS",
+    "cache_id": null,
+    "nearest_similarity": 0.3388,
+    "added_terms": [
+      "admitcard",
+      "exam"
+    ]
+  },
+  "SC_R_061": {
+    "decision": "HIT",
+    "cache_id": "SC_C_0301",
+    "nearest_similarity": 0.9963,
+    "added_terms": []
+  },
+  "SC_R_062": {
+    "decision": "HIT",
+    "cache_id": "SC_C_0342",
+    "nearest_similarity": 0.9968,
+    "added_terms": [
+      "dispatch",
+      "transcript"
+    ]
+  },
+  "SC_R_063": {
+    "decision": "HIT",
+    "cache_id": "SC_C_0396",
+    "nearest_similarity": 0.9965,
+    "added_terms": [
+      "rubric",
+      "submission"
+    ]
+  },
+  "SC_R_064": {
+    "decision": "MISS",
+    "cache_id": null,
+    "nearest_similarity": 0.1262,
+    "added_terms": []
+  },
+  "SC_R_065": {
+    "decision": "HIT",
+    "cache_id": "SC_C_0455",
+    "nearest_similarity": 0.9963,
+    "added_terms": []
+  },
+  "SC_R_066": {
+    "decision": "HIT",
+    "cache_id": "SC_C_0502",
+    "nearest_similarity": 0.9966,
+    "added_terms": [
+      "dispatch",
+      "transcript"
+    ]
+  },
+  "SC_R_067": {
+    "decision": "HIT",
+    "cache_id": "SC_C_0527",
+    "nearest_similarity": 0.9964,
+    "added_terms": [
+      "income",
+      "waiver"
+    ]
+  },
+  "SC_R_068": {
+    "decision": "MISS",
+    "cache_id": null,
+    "nearest_similarity": 0.0645,
+    "added_terms": [
+      "bank",
+      "reversal"
+    ]
+  },
+  "SC_R_069": {
+    "decision": "HIT",
+    "cache_id": "SC_C_0617",
+    "nearest_similarity": 0.9972,
+    "added_terms": []
+  },
+  "SC_R_070": {
+    "decision": "HIT",
+    "cache_id": "SC_C_0656",
+    "nearest_similarity": 0.9967,
+    "added_terms": [
+      "browser",
+      "camera"
+    ]
+  },
+  "SC_R_071": {
+    "decision": "HIT",
+    "cache_id": "SC_C_0686",
+    "nearest_similarity": 0.9973,
+    "added_terms": [
+      "dispatch",
+      "transcript"
+    ]
+  },
+  "SC_R_072": {
+    "decision": "MISS",
+    "cache_id": null,
+    "nearest_similarity": 0.2167,
+    "added_terms": []
+  }
+}

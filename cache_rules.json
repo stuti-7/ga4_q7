@@ -1,0 +1,11 @@
+{
+  "ttl_minutes": 480,
+  "similarity_threshold": 0.91,
+  "candidate_filters": [
+    "tenant",
+    "channel",
+    "language",
+    "not expired"
+  ],
+  "output": "JSON object mapping request_id to {decision, cache_id, nearest_similarity, added_terms}. nearest_similarity is rounded to 4 decimals."
+}
