@@ -1,4 +1,8 @@
 import json, re, math
+from decimal import Decimal, ROUND_HALF_UP
+
+def round4(x):
+    return float(Decimal(repr(x)).quantize(Decimal("0.0001"), rounding=ROUND_HALF_UP))
 
 base = "/Users/amanchandrah/Documents/TDS W2/Week 4/semantic_cache_query_augmentation"
 rules = json.load(open(f"{base}/cache_rules.json"))
@@ -25,12 +29,13 @@ def cosine(a, b):
 result = {}
 for r in requests:
     tokens = tokenize(r["query"])
+    token_set = set(tokens)
     added = set()
     for t in tokens:
         if t in expansion_map:
             for term in expansion_map[t]:
                 added.add(term)
-    added_terms = sorted(added)
+    added_terms = sorted(added - token_set)
 
     candidates = []
     for e in entries:
@@ -41,7 +46,7 @@ for r in requests:
         if e["language"] != r["language"]:
             continue
         age = r["at_minute"] - e["created_minute"]
-        if age < 0 or age > ttl:
+        if age > ttl:
             continue
         candidates.append(e)
 
@@ -65,7 +70,7 @@ for r in requests:
     result[r["request_id"]] = {
         "decision": decision,
         "cache_id": cache_id,
-        "nearest_similarity": round(nearest, 4),
+        "nearest_similarity": round4(nearest),
         "added_terms": added_terms,
     }
 
